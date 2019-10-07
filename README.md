@@ -4,9 +4,13 @@ This is WordPress Theme, according to clients need.
 
 ## Project Data
 **Project Name:** Casino Prinsen
+
 **Client's country:** Sweden
+
 **Date of release:** 08/2019
+
 **Theme author:** unknown
+
 **WP theme author & web-dev:** Maksym Olimpiiuk
 
 ## Usage
